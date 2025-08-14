@@ -1,4 +1,5 @@
-// Shaan Banday – TypeScript  
+// Shaan Banday – TypeScript
+
 // Updates as of June 17th, 2025
 
 function main(workbook: ExcelScript.Workbook) // define main entry point
